@@ -4,13 +4,13 @@ Greetings ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 Full stack developer & Entrepreneur
 -----------------------------------
 
-I'm a tech-savvy Full Stack Web Developer proficient in fundamental front-end languages and server code. Whilst I'm currently learning DevOps and a bit of machine learning, I hold In-depth knowledge of a number of languages with 4 years of hands-on experience taking charge of front and back-end web development.
+I'm a tech-savvy Full Stack Web Developer proficient in fundamental front-end languages and server code. Whilst I'm currently learning DevOps and a bit of machine learning, I hold In-depth knowledge of a number of languages with 4+ years of hands-on experience taking charge of front and back-end web development.
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [this website](http://harmony.mallorar.com)
 * ✉️  You can contact me at [harmochiky2@gmail.com](mailto:harmochiky2@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects such as ecommerce or any heavy systems
-* ⚡  Founder of Mallorar (Pty) Ltd🕴️
+* 🤝 I'm open to collaborating on interesting projects such as ecommerce, financial or any heavy systems
+* ⚡  Senior SW. Engineer at Entrebyte (Pty) Ltd🕴️
 
 <a href="https://www.twitter.com/chikx_12" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/chikx_12?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
