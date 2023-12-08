@@ -11,8 +11,8 @@ I am a passionate software engineer with experience in eCommerce, finance, and s
 * ✉️  You can contact me at [harmony@entrebyte.co.za](mailto:harmony@entrebyte.co.za)
 * 🧠  I'm learning how to reverse engineer ChatGPT 🤫
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm actually an alien 🤫
-
+* ⚡  I'm actually an alien because humans can't understand my code 🤫 (except ChatGPT 🙄)
+ 
 <a href="https://www.twitter.com/harmochiky" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/harmochiky?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
