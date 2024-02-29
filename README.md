@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Full stack developer
 -----------------------------------------------------
 
-I am a passionate software engineer with experience in eCommerce, finance, and social media systems. With a passion that began when I was 14, I've been writing code since and have been professionally developing since 2019. I specialize in building complex systems and enjoy collaborating with teams to exceed client expectations. My focus is on continuous learning to stay up-to-date with the latest trends and technologies in the industry. Let's connect and work together on exciting projects!
+I am a passionate software engineer with experience in eCommerce, finance, and social media systems. With a passion that began at a very young age, I've been writing code and have been professionally for 5+ years, and been writing code for 9 years. I specialize in building complex systems and enjoy collaborating with teams to exceed client expectations. My focus is on continuous learning to stay up-to-date with the latest trends and technologies in the industry. Let's connect and work together on exciting projects!
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [this website](http://harmony.github.io)
